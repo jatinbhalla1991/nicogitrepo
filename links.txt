@@ -1,7 +1,13 @@
 
+timmings
+8:30 am to 10:30 am est
+
+Monday to Friday
+
 course content 
 
 https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/
+https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification
 
 tools
 1. git install:
