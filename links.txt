@@ -1,3 +1,8 @@
+
+course content 
+
+https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/
+
 tools
 1. git install:
 https://git-scm.com/install/windows
