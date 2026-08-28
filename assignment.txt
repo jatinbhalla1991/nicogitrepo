@@ -1,0 +1,13 @@
+questions
+1 check your current session is connected to which subscription
+2. check which all sizes of vm machine you can create under this subscription
+3. create a resource group using the cli
+
+
+
+task:
+1. try to create below resources using arm templates
+   resource group
+   storage account
+   vm
+and pass all the values using parameters file
