@@ -11,3 +11,15 @@ task:
    storage account
    vm
 and pass all the values using parameters file
+
+31st august
+1. policy
+try to create a policy and your conditions shoould be resources should only be allowed in the east us region but before implenting the policy create 1 resource in west US and after it test the policy and implement
+
+verify what will happen in existing resource plus what was the test result in disabled mode
+
+
+2. create a policy that nobody else should have a owner access besides your main email id
+
+
+also go through the study links plus test modules
