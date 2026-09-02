@@ -23,3 +23,8 @@ verify what will happen in existing resource plus what was the test result in di
 
 
 also go through the study links plus test modules
+
+
+2nd september
+complete the storage account exercise
+https://learn.microsoft.com/en-us/training/modules/configure-blob-storage/9-simulation-blobs
