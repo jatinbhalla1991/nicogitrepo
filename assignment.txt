@@ -28,3 +28,11 @@ also go through the study links plus test modules
 2nd september
 complete the storage account exercise
 https://learn.microsoft.com/en-us/training/modules/configure-blob-storage/9-simulation-blobs
+
+3rd september
+complete the storage account exercise
+
+https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_07-Manage_Azure_Storage.html
+
+
+try to create the full fledge storage account taking care of netwroking and security using the ARM templates
