@@ -36,3 +36,16 @@ https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructi
 
 
 try to create the full fledge storage account taking care of netwroking and security using the ARM templates
+
+4th september 
+follow this exercise
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/3-create-a-vm
+
+go through different options in linux and windows os
+
+
+try to install some softwares using extension options in vm creation
+
+also create ARM template for vm machine
+
+learn about ip addressing https://www.meridianoutpost.com/resources/articles/IP-classes.php
