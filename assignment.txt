@@ -49,3 +49,18 @@ try to install some softwares using extension options in vm creation
 also create ARM template for vm machine
 
 learn about ip addressing https://www.meridianoutpost.com/resources/articles/IP-classes.php
+
+
+10 september
+
+create arm templates for below resources:
+1. azure app serice plan 
+2. web app service
+3. virtual machines
+4. azure virtual machine scale set
+
+go through all topics covered till dat and complete assignments in all modules.
+
+also practive these assignment of modules:
+1. https://learn.microsoft.com/en-us/training/modules/configure-azure-app-services/11-simulation-web-apps
+2. https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/1-introduction
