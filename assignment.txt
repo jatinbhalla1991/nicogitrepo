@@ -64,3 +64,13 @@ go through all topics covered till dat and complete assignments in all modules.
 also practive these assignment of modules:
 1. https://learn.microsoft.com/en-us/training/modules/configure-azure-app-services/11-simulation-web-apps
 2. https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/1-introduction
+
+
+
+17th september
+container instance
+step1: pull nginx image from docker hub
+step2: run the nginx container on local and modify index.html
+step3: create customized image on your local and push it on docker hub
+step4: create container instance and use the image you pushed on docker hub
+step5: verify if you can see your changes if you hit fqdn of container instance 
