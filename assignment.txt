@@ -74,3 +74,17 @@ step2: run the nginx container on local and modify index.html
 step3: create customized image on your local and push it on docker hub
 step4: create container instance and use the image you pushed on docker hub
 step5: verify if you can see your changes if you hit fqdn of container instance 
+
+
+18th september
+1. go trhough the ip addressing concepts and understand what is ip classes and how we decide cidr
+2. create 2 vnet like you did 
+  vnet-vm1
+  vnet-vm2
+  under vnet vm1 create a virtual machine 1
+  under vnet 2 create a virtual machine 2
+
+  login to either of the machine and try to ping another machine and check if your recieve the response but take care you need to ping private ip
+  (it should not work)
+  to make it work now create a vnet peering between both the vnets.
+  after creating the peering your vm should able to communicate
