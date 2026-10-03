@@ -88,3 +88,8 @@ step5: verify if you can see your changes if you hit fqdn of container instance
   (it should not work)
   to make it work now create a vnet peering between both the vnets.
   after creating the peering your vm should able to communicate
+
+
+  22nd september
+  1. try hand on acitvity for netwirk security group
+  2. try exercise of dns zones
