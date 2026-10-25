@@ -90,6 +90,18 @@ step5: verify if you can see your changes if you hit fqdn of container instance
   after creating the peering your vm should able to communicate
 
 
-  22nd september
+22nd september
   1. try hand on acitvity for netwirk security group
   2. try exercise of dns zones
+
+25th oct
+
+docker and yaml assignment
+
+task1: so convert your classic pipeline for azure biceps to multistage yaml pipeline.
+task2: create a azure biceps teamplate for acr, kubernetes cluster and try to run the pipeline to create a cluster and acr
+
+code and deployment 
+
+task3: create a yaml pipeline for docker in which build your image and push it on the acr
+optional(try to add the sonarqube scanning for your code) and try to look for best options in the pipeline
